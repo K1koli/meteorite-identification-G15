@@ -1,0 +1,195 @@
+id,lora_prob,rank,llm_confidence,llm_reason,final_label
+000104.jpg,0.9932116645353812,1,0.9932116645353812,From LoRA (trust zone),1
+000155.jpg,0.9929750230577258,2,0.9929750230577258,From LoRA (trust zone),1
+000184.jpg,0.9927474657694498,3,0.9927474657694498,From LoRA (trust zone),1
+000146.jpg,0.9921422711125126,4,0.9921422711125126,From LoRA (trust zone),1
+000133.jpg,0.991088310877482,5,0.991088310877482,From LoRA (trust zone),1
+000047.jpg,0.9903617722016794,6,0.9903617722016794,From LoRA (trust zone),1
+000001.jpg,0.9902003893145808,7,0.9902003893145808,From LoRA (trust zone),1
+000134.jpg,0.9899983604749044,8,0.9899983604749044,From LoRA (trust zone),1
+000067.jpg,0.9899865587552388,9,0.9899865587552388,From LoRA (trust zone),1
+000034.jpg,0.9897867065888863,10,0.9897867065888863,From LoRA (trust zone),1
+000078.jpg,0.989566456388544,11,0.989566456388544,From LoRA (trust zone),1
+000081.jpg,0.988590874053814,12,0.988590874053814,From LoRA (trust zone),1
+000014.jpg,0.9884358401651736,13,0.9884358401651736,From LoRA (trust zone),1
+000052.jpg,0.9878284048151086,14,0.9878284048151086,From LoRA (trust zone),1
+000023.jpg,0.987718575530582,15,0.987718575530582,From LoRA (trust zone),1
+000154.jpg,0.9876468512747022,16,0.9876468512747022,From LoRA (trust zone),1
+000012.jpg,0.9876247070453784,17,0.9876247070453784,From LoRA (trust zone),1
+000009.jpg,0.9876170401219968,18,0.9876170401219968,From LoRA (trust zone),1
+000157.jpg,0.9874960007490936,19,0.9874960007490936,From LoRA (trust zone),1
+000185.jpg,0.9872994069699887,20,0.9872994069699887,From LoRA (trust zone),1
+000172.jpg,0.986717332292486,21,0.986717332292486,From LoRA (trust zone),1
+000060.jpg,0.986484995594731,22,0.986484995594731,From LoRA (trust zone),1
+000158.jpg,0.986095783887086,23,0.986095783887086,From LoRA (trust zone),1
+000169.jpg,0.9858536212532608,24,0.9858536212532608,From LoRA (trust zone),1
+000027.jpg,0.985770790665238,25,0.985770790665238,From LoRA (trust zone),1
+000005.jpg,0.9853454762034948,26,0.9853454762034948,From LoRA (trust zone),1
+000103.jpg,0.9851300959233884,27,0.9851300959233884,From LoRA (trust zone),1
+000043.jpg,0.9850281874338784,28,0.9850281874338784,From LoRA (trust zone),1
+000159.jpg,0.9848558615755152,29,0.9848558615755152,From LoRA (trust zone),1
+000105.jpg,0.984565657598001,30,0.984565657598001,From LoRA (trust zone),1
+000175.jpg,0.9841487716745446,31,0.9841487716745446,From LoRA (trust zone),1
+000102.jpg,0.9835804678775646,32,0.9835804678775646,From LoRA (trust zone),1
+000029.jpg,0.9808768563800389,33,0.9808768563800389,From LoRA (trust zone),1
+000019.jpg,0.9755225821777628,34,0.9755225821777628,From LoRA (trust zone),1
+000048.jpg,0.9716323923181606,35,0.9716323923181606,From LoRA (trust zone),1
+000106.jpg,0.9467943984049336,36,0.9467943984049336,From LoRA (trust zone),1
+000042.jpg,0.9121418024102846,37,0.9121418024102846,From LoRA (trust zone),1
+000038.jpg,0.9052582399712668,38,0.9052582399712668,From LoRA (trust zone),1
+000080.jpg,0.8958782967593933,39,0.8958782967593933,From LoRA (trust zone),1
+000139.jpg,0.8915294364646629,40,0.8915294364646629,From LoRA (trust zone),1
+000120.jpg,0.88547728334864,41,0.88547728334864,From LoRA (trust zone),1
+000142.jpg,0.8578961633697704,42,0.8578961633697704,From LoRA (trust zone),1
+000085.jpg,0.8520290741214046,43,0.8520290741214046,From LoRA (trust zone),1
+000166.jpg,0.846296978769479,44,0.6,"The stone has a somewhat irregular shape and appears to have a dark surface, but lacks clear fusion crust, regmaglypts, or visible metal grains, leading to minor doubts about its authenticity as a meteorite.",1
+000162.jpg,0.8303744298992334,45,0.0,"The object is a manufactured binder clip with a geometric shape and uniform color, showing no features indicative of a meteorite.",0
+000107.jpg,0.8257425319127463,46,0.7,"The stone exhibits a dark surface that may suggest fusion crust, but lacks clear regmaglypts or visible metal grains, and the overall shape appears irregular.",1
+000110.jpg,0.8176527181985201,47,0.6,"Irregular shape suggests natural origin, but surface appears too smooth and lacks distinct features like fusion crust or regmaglypts.",1
+000111.jpg,0.8148257989022466,48,0.6,"The sample shows some irregularity and potential fusion crust, but lacks clear regmaglypts or visible metal grains, raising minor doubts about its meteorite status.",1
+000141.jpg,0.8003414198756218,49,0.4,"Irregular shape but lacks clear fusion crust, regmaglypts, or metal grains; uncertain features suggest it may not be a meteorite.",0
+000030.jpg,0.7985123295888857,50,0.6,"Irregular shape suggests natural origin, but surface appears somewhat smooth with no clear fusion crust or regmaglypts visible, raising minor doubts about its meteorite status.",1
+000147.jpg,0.7984834553466902,51,0.6,"The stone has a dark surface that may suggest fusion crust, but lacks clear regmaglypts or visible metal grains, and there are minor doubts about its natural irregularity.",1
+000161.jpg,0.7910186302054812,52,0.8,"The surface shows metallic specks and a distinct pattern, suggesting metal grains are present, but lacks clear regmaglypts or fusion crust.",1
+000129.jpg,0.7840615473687649,53,0.7,"The specimen shows signs of fusion crust with a dark, textured surface, but lacks clear regmaglypts or visible metal grains.",1
+000186.jpg,0.7662887517362833,54,0.2,"The stone has a uniform color and appears polished, suggesting it is not a meteorite. No must-have features are present.",0
+000055.jpg,0.7368152174339802,55,0.7,"Irregular shape suggests natural origin, but lacks clear fusion crust, regmaglypts, or visible metal grains.",1
+000018.jpg,0.7042649429705409,56,0.2,"The object appears to have a perfectly smooth surface and a uniform color, suggesting it is not a meteorite.",0
+000089.jpg,0.6416103923348365,57,0.6,"Irregular shape suggests natural origin, but lacks clear fusion crust or regmaglypts, and surface texture raises minor doubts.",1
+000181.jpg,0.6328853277006635,58,0.6,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, raising minor doubts about its meteorite status.",1
+000137.jpg,0.6289874658126521,59,0.6,"Irregular shape suggests natural origin, but surface appears somewhat smooth with no clear fusion crust or regmaglypts visible, raising minor doubts.",1
+000163.jpg,0.6234264944300607,60,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and may have some smooth areas.",1
+000079.jpg,0.5960523116367834,61,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and may show signs of weathering.",1
+000003.jpg,0.5807368600120147,62,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, raising some concerns.",1
+000058.jpg,0.5591588838508836,63,0.6,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and metal content is not evident.",1
+000164.jpg,0.5568328464610709,64,0.4,"Irregular shape but lacks must-have features like fusion crust, regmaglypts, or visible metal grains; surface appears somewhat uniform with no clear weathering patterns.",0
+000109.jpg,0.5181490173908295,65,0.6,"Irregular shape with some dark surface features, but lacks clear fusion crust, regmaglypts, or visible metal grains, raising minor doubts about its meteorite status.",1
+000061.jpg,0.5063962539037069,66,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and there are concerns about surface texture.",1
+000033.jpg,0.5057425665220728,67,0.6,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and metal content is not evident.",1
+000045.jpg,0.472863281076705,68,0.6,"The stone has a somewhat irregular shape and appears to have a dark surface, but lacks clear fusion crust, regmaglypts, or visible metal grains, leading to minor doubts about its authenticity as a meteorite.",1
+000064.jpg,0.471317200973216,69,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000028.jpg,0.4459700099434013,70,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and there are concerns about potential smoothness.",1
+000099.jpg,0.4157220922686435,71,0.8,"The specimen shows signs of fusion crust and irregular surface texture, but lacks clear regmaglypts or visible metal grains.",1
+000063.jpg,0.4123216924705991,72,0.6,"Irregular shape suggests natural origin, but surface appears too smooth with no clear fusion crust or regmaglypts, raising minor doubts.",1
+000017.jpg,0.4106087032705545,73,0.6,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and there are minor doubts about its composition.",1
+000119.jpg,0.4071588974308084,74,0.5,"Surface appears irregular but lacks clear fusion crust, regmaglypts, or visible metal grains; some concerns about texture and potential non-meteorite features.",1
+000031.jpg,0.4049818149112441,75,0.5,"Irregular shape suggests a natural origin, but lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000077.jpg,0.4025166445860156,76,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and there are concerns about surface texture.",1
+000194.jpg,0.3995320663821919,77,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and there are concerns about potential smoothness.",1
+000004.jpg,0.3966037398894076,78,0.0,"The object appears to have a smooth surface and lacks any visible fusion crust, regmaglypts, or metal grains, suggesting it is not a meteorite.",0
+000112.jpg,0.3668776491001524,79,0.6,"Irregular shape suggests natural origin, but surface appears too smooth with no clear fusion crust or regmaglypts, raising minor doubts about its meteorite status.",1
+000098.jpg,0.3595762315240723,80,0.2,"Surface appears polished and uniform in color, lacking fusion crust or any must-have features, suggesting it is not a meteorite.",0
+000173.jpg,0.3362183413744248,81,0.5,"Irregular shape suggests natural origin, but surface appears somewhat smooth with no clear fusion crust or regmaglypts, raising concerns about its authenticity as a meteorite.",1
+000128.jpg,0.3208771517362307,82,0.4,"Irregular shape but lacks any must-have features like fusion crust, regmaglypts, or visible metal grains; surface appears somewhat uniform with no distinct weathering patterns.",0
+000182.jpg,0.3144137114286423,83,0.7,"Irregular shape suggests natural origin, but lacks clear fusion crust or regmaglypts; surface texture is somewhat weathered.",1
+000088.jpg,0.3092073179712449,84,0.4,"Irregular shape suggests natural origin, but surface lacks fusion crust, regmaglypts, or metal grains, raising doubts about its meteorite status.",0
+000094.jpg,0.2968506912735326,85,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and may have some concerns about surface texture.",1
+000100.jpg,0.2960110947282777,86,0.0,"The image shows a smooth, polished surface with no visible fusion crust or other meteorite features, indicating it is likely not a meteorite.",0
+000174.jpg,0.2932585776369604,87,0.5,"The surface shows some irregularities, but lacks clear must-have features like fusion crust or regmaglypts, and there are concerns about the texture and appearance.",1
+000130.jpg,0.2821822960136665,88,0.6,"Irregular shape suggests natural origin, but lacks clear fusion crust or visible metal grains, raising minor doubts about its meteorite status.",1
+000188.jpg,0.2769397860737863,89,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000177.jpg,0.2728593547104134,90,0.2,"The rock has a uniform color throughout and lacks any must-have features like fusion crust or metal grains, suggesting it is not a meteorite.",0
+000093.jpg,0.2726358032819849,91,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, and there are no visible metal grains.",1
+000127.jpg,0.2720301058143377,92,0.4,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, raising some concerns.",0
+000059.jpg,0.2710777404028232,93,0.4,"Irregular shape but lacks any must-have features like fusion crust, regmaglypts, or metal grains; surface appears somewhat uniform with no distinct meteorite characteristics.",0
+000168.jpg,0.2654263634855549,94,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, and there are concerns about surface texture.",1
+000070.jpg,0.2575244096245754,95,0.2,"The rock appears to have a uniform color and lacks any visible fusion crust, regmaglypts, or metal grains, suggesting it is not a meteorite.",0
+000057.jpg,0.2516685045427746,96,0.5,"Irregular shape suggests natural origin, but lacks clear fusion crust, regmaglypts, or visible metal grains, raising some concerns.",1
+000124.jpg,0.2425374949902848,97,0.4,"Irregular shape but surface lacks fusion crust, regmaglypts, or visible metal grains; appears to have some weathering but not definitive for meteorite.",0
+000016.jpg,0.2424618462618026,98,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000068.jpg,0.2355982970308374,99,0.7,"Irregular shape with some visible texture suggesting regmaglypts, but lacks clear fusion crust or metal grains.",1
+000170.jpg,0.2341518449355606,100,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000015.jpg,0.2181827954396053,101,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust or regmaglypts, raising concerns about its authenticity as a meteorite.",1
+000069.jpg,0.2121385719834102,102,0.5,"Irregular shape suggests natural origin, but surface lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000131.jpg,0.2102491510514583,103,0.5,"Surface shows some texture that could suggest weathering, but lacks clear fusion crust, regmaglypts, or visible metal grains, leading to mixed signals.",1
+000008.jpg,0.204816221518235,104,0.5,"Irregular shape suggests natural origin, but lacks clear must-have features like fusion crust or metal grains, raising some concerns.",1
+000053.jpg,0.2013973905877382,105,0.4,"Irregular shape suggests natural origin, but surface lacks fusion crust, regmaglypts, or visible metal grains, raising uncertainty.",0
+000121.jpg,0.2003813087940216,106,0.2,"The stone appears to have a uniform color and lacks any visible fusion crust, regmaglypts, or metal grains, suggesting it is not a meteorite.",0
+000083.jpg,0.1929315789775164,107,0.1929315789775164,From LoRA (trust zone),0
+000140.jpg,0.18779842103659,108,0.18779842103659,From LoRA (trust zone),0
+000076.jpg,0.1824546135203154,109,0.1824546135203154,From LoRA (trust zone),0
+000051.jpg,0.1751036635013642,110,0.1751036635013642,From LoRA (trust zone),0
+000151.jpg,0.169968091417104,111,0.169968091417104,From LoRA (trust zone),0
+000092.jpg,0.1682791205605975,112,0.1682791205605975,From LoRA (trust zone),0
+000143.jpg,0.1671080745722133,113,0.1671080745722133,From LoRA (trust zone),0
+000150.jpg,0.1620588991446075,114,0.1620588991446075,From LoRA (trust zone),0
+000021.jpg,0.1609540472359017,115,0.1609540472359017,From LoRA (trust zone),0
+000191.jpg,0.1585494416972829,116,0.1585494416972829,From LoRA (trust zone),0
+000084.jpg,0.1498269774364652,117,0.1498269774364652,From LoRA (trust zone),0
+000192.jpg,0.1483711141713515,118,0.1483711141713515,From LoRA (trust zone),0
+000153.jpg,0.144937248279651,119,0.144937248279651,From LoRA (trust zone),0
+000037.jpg,0.1423565956798416,120,0.1423565956798416,From LoRA (trust zone),0
+000041.jpg,0.1348353302520182,121,0.1348353302520182,From LoRA (trust zone),0
+000180.jpg,0.1340663704883169,122,0.1340663704883169,From LoRA (trust zone),0
+000165.jpg,0.1327088734617939,123,0.1327088734617939,From LoRA (trust zone),0
+000114.jpg,0.1325159697724437,124,0.1325159697724437,From LoRA (trust zone),0
+000179.jpg,0.1320733510785632,125,0.1320733510785632,From LoRA (trust zone),0
+000046.jpg,0.1320647965012877,126,0.1320647965012877,From LoRA (trust zone),0
+000013.jpg,0.1317495845292729,127,0.1317495845292729,From LoRA (trust zone),0
+000126.jpg,0.131529190491333,128,0.131529190491333,From LoRA (trust zone),0
+000116.jpg,0.1309936648683139,129,0.1309936648683139,From LoRA (trust zone),0
+000035.jpg,0.1309561579729671,130,0.1309561579729671,From LoRA (trust zone),0
+000171.jpg,0.130951450947948,131,0.130951450947948,From LoRA (trust zone),0
+000135.jpg,0.130949302352275,132,0.130949302352275,From LoRA (trust zone),0
+000193.jpg,0.1309471242992138,133,0.1309471242992138,From LoRA (trust zone),0
+000123.jpg,0.1309430332061041,134,0.1309430332061041,From LoRA (trust zone),0
+000082.jpg,0.1308960182488792,135,0.1308960182488792,From LoRA (trust zone),0
+000066.jpg,0.1308805843884194,136,0.1308805843884194,From LoRA (trust zone),0
+000091.jpg,0.1308378497035139,137,0.1308378497035139,From LoRA (trust zone),0
+000056.jpg,0.1307774406547348,138,0.1307774406547348,From LoRA (trust zone),0
+000010.jpg,0.1307219490753831,139,0.1307219490753831,From LoRA (trust zone),0
+000025.jpg,0.1306032021012571,140,0.1306032021012571,From LoRA (trust zone),0
+000036.jpg,0.1305524868787162,141,0.1305524868787162,From LoRA (trust zone),0
+000115.jpg,0.1305437484514658,142,0.1305437484514658,From LoRA (trust zone),0
+000020.jpg,0.1303901700302958,143,0.1303901700302958,From LoRA (trust zone),0
+000062.jpg,0.1303608027045373,144,0.1303608027045373,From LoRA (trust zone),0
+000118.jpg,0.1303432265262085,145,0.1303432265262085,From LoRA (trust zone),0
+000125.jpg,0.1303231638890725,146,0.1303231638890725,From LoRA (trust zone),0
+000122.jpg,0.1303072657643093,147,0.1303072657643093,From LoRA (trust zone),0
+000024.jpg,0.1302554207440051,148,0.1302554207440051,From LoRA (trust zone),0
+000096.jpg,0.1302370228287246,149,0.1302370228287246,From LoRA (trust zone),0
+000108.jpg,0.1302031329488036,150,0.1302031329488036,From LoRA (trust zone),0
+000026.jpg,0.130197638835482,151,0.130197638835482,From LoRA (trust zone),0
+000007.jpg,0.1301814114709419,152,0.1301814114709419,From LoRA (trust zone),0
+000071.jpg,0.1301478800122384,153,0.1301478800122384,From LoRA (trust zone),0
+000073.jpg,0.1301185845707853,154,0.1301185845707853,From LoRA (trust zone),0
+000113.jpg,0.1301031362575789,155,0.1301031362575789,From LoRA (trust zone),0
+000006.jpg,0.130077479303711,156,0.130077479303711,From LoRA (trust zone),0
+000087.jpg,0.1300703694492027,157,0.1300703694492027,From LoRA (trust zone),0
+000136.jpg,0.1300549511625259,158,0.1300549511625259,From LoRA (trust zone),0
+000183.jpg,0.1299840535071712,159,0.1299840535071712,From LoRA (trust zone),0
+000086.jpg,0.1299423878771011,160,0.1299423878771011,From LoRA (trust zone),0
+000075.jpg,0.1299373345897981,161,0.1299373345897981,From LoRA (trust zone),0
+000178.jpg,0.1299314938692583,162,0.1299314938692583,From LoRA (trust zone),0
+000049.jpg,0.1299044690612289,163,0.1299044690612289,From LoRA (trust zone),0
+000167.jpg,0.1298986541417738,164,0.1298986541417738,From LoRA (trust zone),0
+000152.jpg,0.1298927908280381,165,0.1298927908280381,From LoRA (trust zone),0
+000002.jpg,0.1298777956894978,166,0.1298777956894978,From LoRA (trust zone),0
+000189.jpg,0.1298457561233253,167,0.1298457561233253,From LoRA (trust zone),0
+000176.jpg,0.1298018218604502,168,0.1298018218604502,From LoRA (trust zone),0
+000156.jpg,0.129782213208576,169,0.129782213208576,From LoRA (trust zone),0
+000054.jpg,0.1297763209203603,170,0.1297763209203603,From LoRA (trust zone),0
+000022.jpg,0.1297446878764916,171,0.1297446878764916,From LoRA (trust zone),0
+000095.jpg,0.1297410857449803,172,0.1297410857449803,From LoRA (trust zone),0
+000040.jpg,0.1296974441071075,173,0.1296974441071075,From LoRA (trust zone),0
+000160.jpg,0.129697052175524,174,0.129697052175524,From LoRA (trust zone),0
+000190.jpg,0.1296748212297205,175,0.1296748212297205,From LoRA (trust zone),0
+000090.jpg,0.1295837159958426,176,0.1295837159958426,From LoRA (trust zone),0
+000032.jpg,0.1295299276330128,177,0.1295299276330128,From LoRA (trust zone),0
+000144.jpg,0.129508371775349,178,0.129508371775349,From LoRA (trust zone),0
+000050.jpg,0.1293845445228119,179,0.1293845445228119,From LoRA (trust zone),0
+000117.jpg,0.1292453832855379,180,0.1292453832855379,From LoRA (trust zone),0
+000039.jpg,0.1292352690533907,181,0.1292352690533907,From LoRA (trust zone),0
+000132.jpg,0.1291929005852176,182,0.1291929005852176,From LoRA (trust zone),0
+000101.jpg,0.1291166240073464,183,0.1291166240073464,From LoRA (trust zone),0
+000149.jpg,0.1289356542682206,184,0.1289356542682206,From LoRA (trust zone),0
+000074.jpg,0.1286011517772244,185,0.1286011517772244,From LoRA (trust zone),0
+000145.jpg,0.1283648962982826,186,0.1283648962982826,From LoRA (trust zone),0
+000065.jpg,0.1232599788000462,187,0.1232599788000462,From LoRA (trust zone),0
+000148.jpg,0.1214522436709591,188,0.1214522436709591,From LoRA (trust zone),0
+000011.jpg,0.1213546092794449,189,0.1213546092794449,From LoRA (trust zone),0
+000097.jpg,0.120633225456846,190,0.120633225456846,From LoRA (trust zone),0
+000187.jpg,0.1016634968281896,191,0.1016634968281896,From LoRA (trust zone),0
+000138.jpg,0.1008288213051855,192,0.1008288213051855,From LoRA (trust zone),0
+000072.jpg,0.0388657134888624,193,0.0388657134888624,From LoRA (trust zone),0
+000044.jpg,0.036508858617809,194,0.036508858617809,From LoRA (trust zone),0
