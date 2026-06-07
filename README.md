@@ -10,8 +10,7 @@ meteorite-identification-G15/
 ├── sample_submission.csv           # 提交模板
 ├── dinov2算法/                      # DINOv2 LoRA 训练管道
 │   ├── train_dinov2_lora_v2.py    # 模型训练脚本
-│   ├── dinov2_lora_v2_detail.csv   # LoRA 预测概率
-│   └── model_checkpoints/          # 训练好的模型权重
+│   └── dinov2_lora_v2_detail.csv   # LoRA 预测概率
 └── outputs/                        # 输出结果
     ├── submission_fusion.csv       # 最终提交文件
     └── submission_fusion_detail.csv # 详细融合结果
